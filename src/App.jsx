@@ -22,6 +22,8 @@ class Imc extends React.Component {
     this.state = {
       peso: null,
       altura: null
+      
+  
     };
   }
 
